@@ -3,3 +3,4 @@ Just trying github
 2) created the corresponding github project
 3) Execute on command line:
     git remote add origin git@github.com:powerboots/JustTry.git 
+    git push -u origin master
